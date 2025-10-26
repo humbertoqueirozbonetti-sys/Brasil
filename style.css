@@ -18,7 +18,7 @@ header a {
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
-    font-size: 3em;
+    font-size: 1.1em;
     transition: 0.3s;
 }
 
@@ -43,7 +43,7 @@ section {
 
 .texto h2 {
     color: #b7e48a;
-    font-size: 4em;
+    font-size: 2em;
     margin-bottom: 20px;
 }
 
@@ -81,12 +81,12 @@ img {
 }
 
 .capa h1 {
-    font-size: 5em;
+    font-size: 3em;
     color: #f5b100;
 }
 
 .capa p {
-    font-size: 2em;
+    font-size: 1.2em;
     max-width: 600px;
     color: #fff;
 }
