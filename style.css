@@ -9,14 +9,14 @@ body {
 /* ===== Cabeçalho / Menu ===== */
 header {
     background-color: #1e3d28;
-    padding: 30px 0;
+    padding: 15px 0;
     text-align: center;
 }
 
 header a {
     color: #f5b100;
     text-decoration: none;
-    margin: 0 30px;
+    margin: 0 15px;
     font-weight: bold;
     font-size: 1.1em;
     transition: 0.3s;
@@ -28,23 +28,23 @@ header a:hover {
 
 /* ===== Seções ===== */
 section {
-    padding: 100px 10%;
+    padding: 80px 10%;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 30px;
 }
 
 /* ===== Texto ===== */
 .texto {
-    max-width: 700px;
+    max-width: 600px;
 }
 
 .texto h2 {
     color: #b7e48a;
     font-size: 2em;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .texto p, .texto ul {
@@ -59,12 +59,12 @@ section {
 }
 
 .texto li {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 /* ===== Imagens ===== */
 img {
-    border-radius: 30px;
+    border-radius: 15px;
 }
 
 /* ===== Página Inicial ===== */
@@ -72,7 +72,7 @@ img {
     background-image: url("imagens/cristo-capa.png");
     background-size: cover;
     background-position: center;
-    height: 90vh;
+    height: 70vh;
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -87,11 +87,11 @@ img {
 
 .capa p {
     font-size: 1.2em;
-    max-width: 700px;
+    max-width: 600px;
     color: #fff;
 }
 
 .capa h4 {
-    margin-top: 50px;
+    margin-top: 30px;
     color: #e0e0e0;
 }
