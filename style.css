@@ -9,14 +9,14 @@ body {
 /* ===== Cabeçalho / Menu ===== */
 header {
     background-color: #1e3d28;
-    padding: 15px 0;
+    padding: 30px 0;
     text-align: center;
 }
 
 header a {
     color: #f5b100;
     text-decoration: none;
-    margin: 0 15px;
+    margin: 0 30px;
     font-weight: bold;
     font-size: 1.1em;
     transition: 0.3s;
@@ -28,7 +28,7 @@ header a:hover {
 
 /* ===== Seções ===== */
 section {
-    padding: 80px 10%;
+    padding: 100px 10%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -38,13 +38,13 @@ section {
 
 /* ===== Texto ===== */
 .texto {
-    max-width: 600px;
+    max-width: 700px;
 }
 
 .texto h2 {
     color: #b7e48a;
     font-size: 2em;
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 
 .texto p, .texto ul {
@@ -59,12 +59,12 @@ section {
 }
 
 .texto li {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
 
 /* ===== Imagens ===== */
 img {
-    border-radius: 10px;
+    border-radius: 30px;
 }
 
 /* ===== Página Inicial ===== */
@@ -87,11 +87,11 @@ img {
 
 .capa p {
     font-size: 1.2em;
-    max-width: 500px;
+    max-width: 700px;
     color: #fff;
 }
 
 .capa h4 {
-    margin-top: 30px;
+    margin-top: 50px;
     color: #e0e0e0;
 }
